@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/11.jpg
+    image: images/3.png
     image_alt: App preview
     title: This Is A Big Hero Headline!
     content: >-
