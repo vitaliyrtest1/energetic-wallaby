@@ -22,6 +22,22 @@ sections:
         new_window: false
         no_follow: false
         type: action
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    image_alt: lorem-ipsum
+    actions: []
+    type: section_hero
   - section_id: features
     type: section_features
     background: gray
@@ -111,22 +127,6 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    image_alt: lorem-ipsum
-    actions: []
-    type: section_hero
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
