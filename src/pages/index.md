@@ -37,7 +37,7 @@ sections:
       - dolor sit amet
     image_alt: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: lorem-ipsum adssa das das das dasd
         url: lorem-ipsum
         style: link
         has_icon: false
