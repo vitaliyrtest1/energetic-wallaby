@@ -7,7 +7,7 @@ sections:
     title: Hello123
     content: >
       Azimuth is the perfect theme for developers, designers and
-      entre![](asddsa)preneurs who need a sleek, modern SaaS site.
+      entre![](asddsa)preneurs who need a sleek, modern SaaS site.![]()
     actions:
       - label: Learn More
         url: /features
