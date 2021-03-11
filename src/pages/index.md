@@ -7,7 +7,8 @@ sections:
     title: Hello1231
     content: >
       Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.![](/images/1.png)
+      who need a sleek, modern SaaS
+      site.![](/images/1.png)![](/images/pleasant-spider.png)
     actions:
       - label: Learn More
         url: /features
