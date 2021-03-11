@@ -34,8 +34,6 @@ sections:
     image: images/1.png
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: |
-      *
     image_alt: lorem-ipsum
     background: gray
     actions: []
