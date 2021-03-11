@@ -6,8 +6,9 @@ sections:
     image_alt: App preview
     title: Hello1231
     content: >
-      ![](/images/oval-maple.png)Azimuth is the perfect theme for developers,
-      designers and entrepreneurs who need a sleek, modern SaaS site.
+      ![](/images/oval-maple.png)![](/images/magical-spider.png)Azimuth is the
+      perfect theme for developers, designers and entrepreneurs who need a
+      sleek, modern SaaS site.
     actions:
       - label: Learn More
         url: /features
